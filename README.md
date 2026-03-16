@@ -3,5 +3,7 @@
 
 kurulum:
 git clone https://github.com/Arda7362/-p-sorgu
+
 cd -p-sorgu
+
 python -p-sorgu
